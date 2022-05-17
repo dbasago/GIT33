@@ -1,0 +1,14 @@
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\obj\Debug\netcoreapp3.1\Apuntesclase.csproj.AssemblyReference.cache
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\obj\Debug\netcoreapp3.1\Apuntesclase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\obj\Debug\netcoreapp3.1\Apuntesclase.AssemblyInfoInputs.cache
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\obj\Debug\netcoreapp3.1\Apuntesclase.AssemblyInfo.cs
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\obj\Debug\netcoreapp3.1\Apuntesclase.csproj.CoreCompileInputs.cache
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\bin\Debug\netcoreapp3.1\Apuntesclase.exe
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\bin\Debug\netcoreapp3.1\Apuntesclase.deps.json
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\bin\Debug\netcoreapp3.1\Apuntesclase.runtimeconfig.json
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\bin\Debug\netcoreapp3.1\Apuntesclase.runtimeconfig.dev.json
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\bin\Debug\netcoreapp3.1\Apuntesclase.dll
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\bin\Debug\netcoreapp3.1\Apuntesclase.pdb
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\obj\Debug\netcoreapp3.1\Apuntesclase.dll
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\obj\Debug\netcoreapp3.1\Apuntesclase.pdb
+C:\Users\danib\source\repos\Apuntesclase\Apuntesclase\obj\Debug\netcoreapp3.1\Apuntesclase.genruntimeconfig.cache
